@@ -1,0 +1,28 @@
+# Next.js
+
+# Logs
+.next/
+out/
+build/
+
+# Cache
+.next/cache
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other files
+*.log
+*.lock
+*.pid
+*.swp
